@@ -1,0 +1,393 @@
+{
+  "version": 6,
+  "ui": {
+    "scope": "a",
+    "page": "home"
+  },
+  "campaigns": [
+    {
+      "id": "a",
+      "name": "Roblox App Clipping",
+      "niche": "Games",
+      "audience": "Tier 1 Countries",
+      "rate": 1,
+      "link": "https://discord.com/invite/wtzzKd49SM",
+      "status": "setup",
+      "brief": "",
+      "card": {
+        "platforms": [
+          "TikTok",
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "requiredTags": [],
+        "requiredMentions": [],
+        "bannedTerms": [],
+        "disclosure": "",
+        "geography": "",
+        "minSec": 0,
+        "maxSec": 0,
+        "submissionMinutes": 0,
+        "minViews": 0,
+        "budget": "",
+        "payout": "",
+        "assets": "",
+        "restrictions": [],
+        "lastVerified": "",
+        "sources": {}
+      },
+      "verified": false,
+      "versions": [],
+      "guideText": "",
+      "contentRequirements": "",
+      "referenceLinks": "",
+      "requiredTags": "",
+      "bannedTerms": "",
+      "minDuration": "",
+      "maxDuration": "",
+      "minTierOne": "",
+      "payouts": {},
+      "confirmedRules": [],
+      "rulesUpdatedAt": "",
+      "submissionMinutes": 0,
+      "accept": "TikTok, YouTube, Instagram",
+      "rules": "GUIDE: https://docs.google.com/document/d/1nqX8gyndyWmhIN0p-E1HDQuAtMwyhFQE8IcWLv4Vo1Q/edit?pli=1&tab=t.0#heading=h.seuw464s77p8\nFOOTAGE: https://drive.google.com/drive/folders/1X3TeYCUQVU2RXTs93rZ4ZERMjGNK0TbA?usp=sharing"
+    },
+    {
+      "id": "b",
+      "name": "Campaign B",
+      "niche": "",
+      "audience": "",
+      "rate": 0,
+      "link": "",
+      "status": "setup",
+      "brief": "",
+      "card": {
+        "platforms": [
+          "TikTok",
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "requiredTags": [],
+        "requiredMentions": [],
+        "bannedTerms": [],
+        "disclosure": "",
+        "geography": "",
+        "minSec": 0,
+        "maxSec": 0,
+        "submissionMinutes": 0,
+        "minViews": 0,
+        "budget": "",
+        "payout": "",
+        "assets": "",
+        "restrictions": [],
+        "lastVerified": "",
+        "sources": {}
+      },
+      "verified": false,
+      "versions": [],
+      "guideText": "",
+      "contentRequirements": "",
+      "referenceLinks": "",
+      "requiredTags": "",
+      "bannedTerms": "",
+      "minDuration": "",
+      "maxDuration": "",
+      "minTierOne": "",
+      "payouts": {},
+      "confirmedRules": [],
+      "rulesUpdatedAt": ""
+    },
+    {
+      "id": "c",
+      "name": "Campaign C",
+      "niche": "",
+      "audience": "",
+      "rate": 0,
+      "link": "",
+      "status": "setup",
+      "brief": "",
+      "card": {
+        "platforms": [
+          "TikTok",
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "requiredTags": [],
+        "requiredMentions": [],
+        "bannedTerms": [],
+        "disclosure": "",
+        "geography": "",
+        "minSec": 0,
+        "maxSec": 0,
+        "submissionMinutes": 0,
+        "minViews": 0,
+        "budget": "",
+        "payout": "",
+        "assets": "",
+        "restrictions": [],
+        "lastVerified": "",
+        "sources": {}
+      },
+      "verified": false,
+      "versions": [],
+      "guideText": "",
+      "contentRequirements": "",
+      "referenceLinks": "",
+      "requiredTags": "",
+      "bannedTerms": "",
+      "minDuration": "",
+      "maxDuration": "",
+      "minTierOne": "",
+      "payouts": {},
+      "confirmedRules": [],
+      "rulesUpdatedAt": ""
+    }
+  ],
+  "accounts": [
+    {
+      "id": "ab30ef4e-0125-4678-aa83-758acad763d8",
+      "campaignId": "a",
+      "platform": "TikTok",
+      "handle": " izumimiya",
+      "status": "setup",
+      "owner": "",
+      "weeklyTarget": "5",
+      "notes": "under raw tapes"
+    },
+    {
+      "id": "1ead73d6-85f5-46df-a6e6-f8dc1da8ab7b",
+      "campaignId": "a",
+      "platform": "YouTube Shorts",
+      "handle": "Raw Tapes",
+      "status": "setup",
+      "owner": "",
+      "weeklyTarget": "0",
+      "notes": ""
+    },
+    {
+      "id": "d5f9e2fd-fe14-4f98-89e3-6f97b528421f",
+      "campaignId": "a",
+      "platform": "Instagram Reels",
+      "handle": " tapewave.edits",
+      "status": "setup",
+      "owner": "",
+      "weeklyTarget": "5",
+      "notes": ""
+    }
+  ],
+  "clips": [],
+  "posts": [],
+  "tasks": [],
+  "trends": [],
+  "resources": [],
+  "academyDone": [],
+  "misoMessages": [
+    {
+      "id": "fdea4bc0-9793-4b85-8b90-5af12179e505",
+      "role": "bot",
+      "text": "Hi Kate. I'm Miso. I’ll help you run Campaign A, B, and C one step at a time.\n\nAsk “What next?” or tell me where you're stuck.",
+      "time": "2026-10-13T17:20:17.991Z",
+      "mode": "local"
+    },
+    {
+      "id": "ac4b5e70-71d3-4c77-858f-fa54d333be91",
+      "role": "bot",
+      "time": "2026-10-13T18:14:20.759Z",
+      "mode": "local",
+      "text": "Update. Here’s where things stand:\nPaste the Campaign A brief\nRules come first. Paste the official brief and Clip Sandbox will turn it into a checkable rule card.",
+      "actions": [
+        {
+          "label": "Paste a brief",
+          "act": "open-rules",
+          "arg": "a",
+          "primary": 1
+        },
+        {
+          "label": "Start 10-min focus",
+          "act": "focus-next"
+        },
+        {
+          "label": "I’m stuck",
+          "act": "miso-stuck"
+        },
+        {
+          "label": "Done",
+          "act": "miso-done"
+        }
+      ]
+    },
+    {
+      "id": "ea0f5e86-045f-4bde-bb28-15259e7582f4",
+      "role": "bot",
+      "time": "2026-10-13T18:20:24.472Z",
+      "mode": "local",
+      "text": "Update. Here’s where things stand:\nPaste the Campaign B brief\nRules come first. Paste the official brief and Clip Sandbox will turn it into a checkable rule card.",
+      "actions": [
+        {
+          "label": "Paste a brief",
+          "act": "open-rules",
+          "arg": "b",
+          "primary": 1
+        },
+        {
+          "label": "Start 10-min focus",
+          "act": "focus-next"
+        },
+        {
+          "label": "I’m stuck",
+          "act": "miso-stuck"
+        },
+        {
+          "label": "Done",
+          "act": "miso-done"
+        }
+      ]
+    },
+    {
+      "id": "d99edfa4-8ee4-49ad-8f70-5237d7c4d88c",
+      "role": "bot",
+      "time": "2026-10-13T18:21:49.994Z",
+      "mode": "local",
+      "text": "Update. Here’s where things stand:\nPaste the Campaign A brief\nRules come first. Paste the official brief and Clip Sandbox will turn it into a checkable rule card.",
+      "actions": [
+        {
+          "label": "Paste a brief",
+          "act": "open-rules",
+          "arg": "a",
+          "primary": 1
+        },
+        {
+          "label": "Start 10-min focus",
+          "act": "focus-next"
+        },
+        {
+          "label": "I’m stuck",
+          "act": "miso-stuck"
+        },
+        {
+          "label": "Done",
+          "act": "miso-done"
+        }
+      ]
+    },
+    {
+      "id": "e89c8446-1cfa-44df-a169-5657807b161e",
+      "role": "user",
+      "text": "What's next",
+      "time": "2026-10-14T08:01:15.811Z"
+    },
+    {
+      "id": "1f54020f-f4f4-491e-a7ee-ded5c1f74c3c",
+      "role": "bot",
+      "text": "Here's your next move, Kate:\n\nReview rules for Campaign A\n\nCampaign briefs determine legal footage, platform eligibility, and submission requirements. The app cannot verify the rules for you.\n\nStep 1: Open Campaigns and select Campaign A.\n\nTap “Done → next step” when you've finished.",
+      "time": "2026-10-14T08:01:15.815Z",
+      "mode": "local",
+      "step": "Step 1 of 3"
+    }
+  ],
+  "misoPlan": {
+    "steps": [
+      "Open Campaigns and select Campaign A.",
+      "Read all live rules in the campaign portal.",
+      "Enter the verified details, then add a platform account."
+    ],
+    "index": 0,
+    "target": "campaigns",
+    "campaignId": "a",
+    "stepRecords": [
+      {
+        "id": "5c823a52-ff75-4e2a-be24-62a6e03ef037",
+        "text": "Open Campaigns and select Campaign A.",
+        "status": "active",
+        "createdAt": "2026-10-14T08:01:15.814Z"
+      },
+      {
+        "id": "fd1e20a6-82ee-4c6d-9fba-c250322c90f8",
+        "text": "Read all live rules in the campaign portal.",
+        "status": "pending",
+        "createdAt": "2026-10-14T08:01:15.814Z"
+      },
+      {
+        "id": "01eb4178-886b-40bd-922e-f455333bbdef",
+        "text": "Enter the verified details, then add a platform account.",
+        "status": "pending",
+        "createdAt": "2026-10-14T08:01:15.814Z"
+      }
+    ],
+    "paused": false,
+    "linkedTaskId": null
+  },
+  "checks": [],
+  "shift": {
+    "date": "2026-10-14",
+    "startedAt": "2026-10-14T08:51:25.362Z",
+    "finishedAt": "2026-10-14T08:51:32.826Z",
+    "paused": false
+  },
+  "shiftHistory": [],
+  "queueOrder": [],
+  "focus": {
+    "taskId": null,
+    "running": false,
+    "remainingSec": 1500,
+    "endAt": 0,
+    "segStart": 0
+  },
+  "prefs": {
+    "motion": true,
+    "mascot": true,
+    "lowEnergy": false,
+    "focusMin": 25,
+    "coaching": true,
+    "misoMode": "do",
+    "misoEndpoint": "",
+    "miso": true,
+    "staleHours": 48,
+    "payoutAlertDays": 7,
+    "noPostDays": 3,
+    "rulesStaleDays": 30,
+    "workspaceName": "Clip Sandbox OS",
+    "opName": "",
+    "opFilter": "",
+    "pipeView": "board",
+    "showClosed": false
+  },
+  "notes": [],
+  "migratedFrom": 4,
+  "migratedAt": "2026-10-13T18:14:20.736Z",
+  "archiveImports": [],
+  "campaignReviews": [],
+  "misoEvents": [],
+  "misoPaused": false,
+  "misoHistory": [],
+  "team": [],
+  "log": [
+    {
+      "at": "2026-10-14T08:45:47.615Z",
+      "type": "account",
+      "text": "Added account  izumimiya (TikTok)",
+      "accountId": "ab30ef4e-0125-4678-aa83-758acad763d8",
+      "campaignId": "a"
+    },
+    {
+      "at": "2026-10-14T08:49:58.649Z",
+      "type": "account",
+      "text": "Added account Raw Tapes (YouTube Shorts)",
+      "accountId": "1ead73d6-85f5-46df-a6e6-f8dc1da8ab7b",
+      "campaignId": "a"
+    },
+    {
+      "at": "2026-10-14T08:50:19.662Z",
+      "type": "account",
+      "text": "Added account  tapewave.edits (Instagram Reels)",
+      "accountId": "d5f9e2fd-fe14-4f98-89e3-6f97b528421f",
+      "campaignId": "a"
+    }
+  ],
+  "exportedAt": "2026-10-14T08:57:24.610Z",
+  "product": "Clip Sandbox OS v4"
+}
